@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started
+- This is a project to create a Codespace with a React App to recorder audio and video from the browser and pull to a repository.
+- Inicial ideia from [LogRocket - Iniubong Obonguko ](https://blog.logrocket.com/how-to-create-video-audio-recorder-react/)
+- The original project was bootstrapped with Vite but i bootstrapped with [Create React App](https://github.com/facebook/create-react-app) because some problems between Codespaces and Vite.
 
 ## Available Scripts
 
